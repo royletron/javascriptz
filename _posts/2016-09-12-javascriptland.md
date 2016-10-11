@@ -3,7 +3,7 @@ layout: post
 title: Welcome to JavaScriptLand
 ---
 
-## Day 1 - JavaScript Land
+## Day 1 - JavaScript Land.
 
 I have been meaning to do a series of blog posts on full-stack JavaScript development for some time. In some ways I hate myself for contributing to the enormous landmass that is 'JavaScript development opinion' but I happen to think mine is good - mainly because I spend so much time assimilating others. As such, this isn't my opinion outright, it's my opinion on the best opinions out there.
 
