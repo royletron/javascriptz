@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            JavaScriptz
 tagline:          'Everything I wish I was taught'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'A place to share opinion on opinion, and ⛵️ loads of code'
 url:              http://royletron.github.io/javascriptz
 baseurl:          /javascriptz
 
