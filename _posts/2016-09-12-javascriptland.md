@@ -17,6 +17,8 @@ And allow me to break a bit of this down. When it talks about **high-level** it 
 
 At it's heart, JavaScript is the third major component of the World Wide Web as we know it. The other two being HTML, which is a websites architecture, foundations and structure, and CSS, which is the styles, fittings and furnishings of the website. JavaScript sits on top and provides a way of interacting with a user and the webpage itself, adding anything dynamic on top - in our house analogy it is the lighting, plumbing, electrics and secret revolving doors.
 
+![The web house](/javascriptz/images/JavaScriptz - 2-1.png)
+
 First released as part of Netscape (the original web browser) it was only named JavaScript to attach on to the significant cachet of 'Java' (the two have zero in common), and was described as 'digital glue' by it's creators. From that it has grown into a fairly mature and robust language, which most developers will have had some experience of, and it's these factors - how it was never supposed to be a real language, how it evolves constantly and is used in an increasing list of systems, and how everyone kinda knows it. That makes JavaScript interesting, accessible, quick to learn and impossible to master fully - hence the vast mix of differing opinion and options.
 
 ### Gambling Aware
